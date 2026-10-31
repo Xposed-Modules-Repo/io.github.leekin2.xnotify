@@ -3,6 +3,11 @@
 **See your Xiaomi phone's notifications on your Xiaomi tablet, from every app, and reply to them with Xiaomi's own reply box.**
 An LSPosed module for the HyperOS 4 China ROM.
 
+> **XNotify has moved to [XApps](https://github.com/Leekin2/XApps)** (io.github.leekin2.xapps): XGoogle, XSecurity and XNotify in one module. XNotify gets no more updates.
+> Flash the **XApps zip** from the [latest release](https://github.com/Leekin2/XApps/releases/latest) in KernelSU / Magisk and restart fully: it installs XApps, sets up LSPosed, moves your XNotify settings and removes XNotify by itself. Do not install the XApps APK next to XNotify.
+>
+> **XNotify artık [XApps](https://github.com/Leekin2/XApps) içinde** ve güncellenmeyecek. XApps zip'ini root yöneticisinde kurup telefonu tamamen yeniden başlatın: ayarlarınızı taşır ve XNotify'i kendisi kaldırır.
+
 > **XReply is now part of XNotify.** Since 4.0, XNotify also gives Telegram, WhatsApp and every other notification Xiaomi's reply box and buttons. If you use XReply, uninstall it and use XNotify instead.
 
 [Türkçe açıklama aşağıda](#türkçe)
